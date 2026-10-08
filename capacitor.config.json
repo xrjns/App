@@ -1,0 +1,9 @@
+{
+  "appId": "com.mydashboard.app",
+  "appName": "My Dashboard",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "plugins": {
+    "StatusBar": { "overlaysWebView": false, "style": "DEFAULT", "backgroundColor": "#f2f2f7" }
+  }
+}
